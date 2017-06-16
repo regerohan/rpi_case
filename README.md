@@ -1,1 +1,1 @@
-# rpi_case
+# Raspberry Pi 1 Model B+ case
